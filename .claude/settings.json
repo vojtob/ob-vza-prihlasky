@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:is.orienteering.sk)",
+      "WebFetch(domain:www.vza.sk)",
+      "WebFetch(domain:vza.sk)",
+      "Bash(pdftotext:*)",
+      "Bash(date:*)"
+    ]
+  }
+}
